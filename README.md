@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA-SCRIPT , PYTHON , SQL , CSS ,FLASK , SKIT-LEARN, C++ ..**
 
-- 👨‍💻 All of my projects are available at [GITHUB only](GITHUB only)
+- 👨‍💻 All of my projects are available at [GITHUB only]
 
 - 📫 How to reach me **EMAIL:averma2988225@gmail.com**
 
