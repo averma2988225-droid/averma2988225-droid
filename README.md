@@ -1,17 +1,15 @@
 ## Hi FEEELASS👋
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averma2988225-droid" alt="averma2988225-droid" /></a> </p>
 
-- 🔭 I’m currently working on **my website : Kasturi Clothing (PRIVATE)**
+- 🔭 I'm currently working on **my website : Kasturi Clothing (PRIVATE)**
 
-- 🌱 I’m currently learning **JAVA-SCRIPT , PYTHON , SQL , CSS , FLASK , SKIT-LEARN, C++ ..**
+- 🌱 I'm currently learning **JAVA-SCRIPT , PYTHON , SQL , CSS , FLASK , SKIT-LEARN, C++ ..**
 
-- 👨‍💻 All of my projects are available at **GITHUB only**
+- 👨💻 All of my projects are available at **GITHUB only**
 
 - 📫 How to reach me **EMAIL: averma2988225@gmail.com**
-
 
 ---
 
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-verma-010a69367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-verma-010a69367/" height="30" width="40" /></a>
 </p>
-
 
 ---
 
@@ -40,16 +37,30 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=averma2988225-droid&show_icons=true&locale=en&layout=compact" alt="averma2988225-droid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=averma2988225-droid&show_icons=true&locale=en" alt="averma2988225-droid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=averma2988225-droid&" alt="averma2988225-droid" /></p>
 
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 🐍 Contribution Snake Animation
+<div align="center">
+  
+### 💫 "Code is like humor. When you have to explain it, it's bad." 💫
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/output/github-contribution-grid-snake-dark.svg)
-
+</div>
