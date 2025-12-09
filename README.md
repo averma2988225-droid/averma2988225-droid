@@ -39,20 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=averma2988225-droid&show_icons=true&locale=en&layout=compact" alt="averma2988225-droid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=averma2988225-droid&show_icons=true&locale=en" alt="averma2988225-droid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=averma2988225-droid&" alt="averma2988225-droid" /></p>
-
----
-
-
-
----
-
 <div align="center">
   
 ### 💫 "Code is like humor. When you have to explain it, it's bad." 💫
