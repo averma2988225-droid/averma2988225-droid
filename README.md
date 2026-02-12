@@ -1,4 +1,4 @@
-## Hi FEEELASS👋
+## Hi fellasss👋
 <h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averma2988225-droid" alt="averma2988225-droid" /></a> </p>
