@@ -25,7 +25,7 @@ const ayushVerma = {
   username: "averma2988225-droid",
   name: "Ayush Verma",
   location: "India",
-  education: "B.Tech CSE @ KR Mangalam University",
+  education: "B.Tech CSE @AI/ML",
 
   role: "Full Stack AI Engineer",
   focus: ["AI/ML", "Web3", "IoT", "Cyber Security"],
