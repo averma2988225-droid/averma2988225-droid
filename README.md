@@ -145,7 +145,7 @@ I build practical products across AI/ML, intelligent dashboards, security-focuse
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ayush-verma-018a69367" target="_blank">
+<a href="h." target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/averma2988225-droid" target="_blank">
