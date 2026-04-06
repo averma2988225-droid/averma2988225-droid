@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import StudentCard from './components/StudentCard';
 import CourseList from './components/CourseList';
 import Counter from './components/Counter';
