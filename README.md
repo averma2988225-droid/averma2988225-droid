@@ -5,46 +5,27 @@
 ```html
 <div align="center">
 
-  <!-- AYUSH UNIVERSE ANIMATED BANNER -->
   <img
     src="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/main/assets/ayush-universe.gif"
     width="100%"
-    alt="Ayush Universe - Cyber Glitch Animation"
+    alt="Ayush Universe Cyber Glitch Animation"
   />
 
   <br/>
 
-  <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hello.+I'm+Ayush.;Passionate+Builder+from+India;Full+Stack+AI+Engineer;AI%2FML+%E2%80%A2+Web3+%E2%80%A2+IoT;Building+Intelligent+Things+with+Code"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hello.+I'm+Ayush.;Passionate+Builder+from+India;Full+Stack+AI+Engineer;AI%2FML+%E2%80%A2+Web3+%E2%80%A2+IoT;Building+Intelligent+Things+with+Code" alt="Typing SVG"/>
   </a>
 
   <br/>
 
-  <!-- PROFILE STATISTICS -->
   <p align="center">
-    <img
-      src="https://komarev.com/ghpvc/?username=averma2988225-droid&label=PROFILE%20VIEWS&color=00CFFF&style=for-the-badge"
-      alt="Profile Views"
-    />
-    <img
-      src="https://img.shields.io/github/followers/averma2988225-droid?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0a0a0a&logo=github"
-      alt="GitHub Followers"
-    />
-    <img
-      src="https://img.shields.io/badge/PUBLIC%20REPOS-20%2B-00CFFF?style=for-the-badge&labelColor=0a0a0a&logo=github"
-      alt="Public Repositories"
-    />
+    <img src="https://komarev.com/ghpvc/?username=averma2988225-droid&label=PROFILE%20VIEWS&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/averma2988225-droid?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0a0a0a&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-20%2B-00CFFF?style=for-the-badge&labelColor=0a0a0a&logo=github" alt="Public Repositories"/>
   </p>
 
 </div>
-```
-
----
-
 ## About Me
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
