@@ -2,17 +2,46 @@
 
 # Welcome to Ayush's Digital Universe
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated banner">
+```html
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Hello.+I'm+Ayush.;Passionate+Builder+from+India;Full+Stack+AI+Engineer;AI%2FML+%E2%80%A2+Web3+%E2%80%A2+IoT;Building+useful+things+with+code)](https://git.io/typing-svg)
+  <!-- AYUSH UNIVERSE ANIMATED BANNER -->
+  <img
+    src="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/main/assets/ayush-universe.gif"
+    width="100%"
+    alt="Ayush Universe - Cyber Glitch Animation"
+  />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=averma2988225-droid&label=Profile%20Views&color=F97316&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/averma2988225-droid?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Public%20Repos-20%2B-F97316?style=for-the-badge&labelColor=1c1917&logo=github" alt="Public Repos" />
-</p>
+  <br/>
+
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hello.+I'm+Ayush.;Passionate+Builder+from+India;Full+Stack+AI+Engineer;AI%2FML+%E2%80%A2+Web3+%E2%80%A2+IoT;Building+Intelligent+Things+with+Code"
+      alt="Typing SVG"
+    />
+  </a>
+
+  <br/>
+
+  <!-- PROFILE STATISTICS -->
+  <p align="center">
+    <img
+      src="https://komarev.com/ghpvc/?username=averma2988225-droid&label=PROFILE%20VIEWS&color=00CFFF&style=for-the-badge"
+      alt="Profile Views"
+    />
+    <img
+      src="https://img.shields.io/github/followers/averma2988225-droid?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=0a0a0a&logo=github"
+      alt="GitHub Followers"
+    />
+    <img
+      src="https://img.shields.io/badge/PUBLIC%20REPOS-20%2B-00CFFF?style=for-the-badge&labelColor=0a0a0a&logo=github"
+      alt="Public Repositories"
+    />
+  </p>
 
 </div>
+```
 
 ---
 
