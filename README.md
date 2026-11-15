@@ -5,7 +5,7 @@
 
 <!-- 2) Typing ASCII-style tagline -->
 <a href="https://github.com/averma2988225-droid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Ayush;%24+nmap+-sV+ideas+%E2%86%92+shipping+products;%24+python+train.py+--agent+red_vs_blue;%24+git+push+origin+main+%F0%9F%9A%80" alt="typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Ayush;%24+nmap+-sV+ideas+%E2%86%92+shipping+products;%24+python+train.py+--agent+red_vs_blue;%24+git+push+origin+main" alt="typing tagline"/>
 </a>
 
 ```text
@@ -17,8 +17,6 @@
 ```
 
 # Welcome to Ayush's Digital Universe
-
-<img src="https://raw.githubusercontent.com/averma2988225-droid/averma2988225-droid/main/assets/banner.png" width="100%" alt="Hello, welcome to my universe"/>
 
 I build practical products across AI/ML, intelligent dashboards, security-focused systems, and modern web apps. I enjoy taking ambitious ideas from concept to working software that people can actually use.
 
