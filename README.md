@@ -91,16 +91,14 @@ I build practical products across AI/ML, intelligent dashboards, security-focuse
 
 <div align="center">
 
-<img width="98%" height="195px" src="https://github-readme-stats.vercel.app/api?username=averma2988225-droid&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="Ayush's GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=averma2988225-droid&theme=react-dark&bg_color=0d1117&color=F97316&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+| Metric | Value |
+|---|---:|
+| Public repositories | `20+` |
+| Contributions | `59` |
+| Followers | `16` |
+| Top languages | `Python`, `TypeScript`, `JavaScript`, `HTML` |
 
 </div>
-
-- Public repos: `20+`
-- Contributions: `59`
-- Followers: `16`
-- Top languages: `Python`, `TypeScript`, `JavaScript`, `HTML`
 
 ---
 
