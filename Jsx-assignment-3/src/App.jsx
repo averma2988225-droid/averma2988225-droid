@@ -18,34 +18,18 @@ function App() {
   ];
 
   return (
-    <div style={styles.container}>
-      <h1 style={styles.heading}>JSX Assignment 3</h1>
-      <p style={styles.subtitle}>React Components Practice</p>
+    <main className="app">
+      <header className="app-header">
+        <p className="eyebrow">React practice project</p>
+        <h1>JSX Assignment 3</h1>
+        <p className="subtitle">Build reusable components with props, lists, and state.</p>
+      </header>
 
       <StudentCard {...student} />
       <CourseList courses={courses} />
       <Counter />
-    </div>
+    </main>
   );
 }
-
-const styles = {
-  container: {
-    maxWidth: '800px',
-    margin: '0 auto',
-    padding: '24px',
-    fontFamily: 'Segoe UI, sans-serif',
-  },
-  heading: {
-    color: '#F97316',
-    textAlign: 'center',
-    marginBottom: '4px',
-  },
-  subtitle: {
-    textAlign: 'center',
-    color: '#6b7280',
-    marginBottom: '32px',
-  },
-};
 
 export default App;

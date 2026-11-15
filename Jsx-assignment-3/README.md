@@ -20,6 +20,7 @@ Jsx-assignment-3/
 │   │   ├── CourseList.jsx
 │   │   └── Counter.jsx
 │   ├── App.jsx
+│   ├── index.css
 │   └── index.jsx
 ├── package.json
 └── README.md
@@ -42,7 +43,7 @@ Opens on [http://localhost:3000](http://localhost:3000).
 - Props passing
 - Rendering lists with `.map()` and `key`
 - `useState` hook
-- Inline styles in React
+- Shared CSS styling
 
 ---
 
