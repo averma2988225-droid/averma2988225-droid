@@ -3,11 +3,6 @@
 <!-- 1) Animated hacker banner (original pixel art untouched; screens scroll ASCII code, hands type) -->
 <img src="assets/hacker-typing.svg" width="100%" alt="Hooded hacker typing while monitors scroll code"/>
 
-<!-- 2) Typing ASCII-style tagline -->
-<a href="https://github.com/averma2988225-droid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Ayush;%24+nmap+-sV+ideas+%E2%86%92+shipping+products;%24+python+train.py+--agent+red_vs_blue;%24+git+push+origin+main" alt="typing tagline"/>
-</a>
-
 ```text
     _____  ____  _______ __  __
    /   \ \/ / / / / ___// / / /
@@ -43,47 +38,12 @@ I build practical products across AI/ML, intelligent dashboards, security-focuse
 
 ## Technology Stack
 
-<div align="center">
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-1E293B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gymnasium-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### Web Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### IoT / Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-</div>
+| Category | Technologies |
+|---|---|
+| Languages | Python, JavaScript, TypeScript, SQL, C++ |
+| AI / ML | scikit-learn, Stable-Baselines3, Gymnasium, Gemini API |
+| Web | Next.js, React, Flask, FastAPI, Firebase |
+| Tools | Arduino, Linux, Git, MySQL |
 
 ---
 
@@ -104,34 +64,20 @@ I build practical products across AI/ML, intelligent dashboards, security-focuse
 
 ## What I'm Working On
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 - Building AI-assisted products with real-world utility
 - Exploring reinforcement learning, cyber security, and intelligent automation
 - Shipping full-stack apps with Python, TypeScript, Flask, FastAPI, and Next.js
 - Contributing to practical open source and collaborative projects
 
-<br clear="right"/>
-
 ---
 
 ## Connect With Me
 
-<div align="center">
+LinkedIn: [ayush-verma-010a69367](https://www.linkedin.com/in/ayush-verma-010a69367)
 
-<a href="https://www.linkedin.com/in/ayush-verma-010a69367" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:averma2988225@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+Email: [averma2988225@gmail.com](mailto:averma2988225@gmail.com)
 
-<br/><br/>
-
-`CREEPY ELECTRON OS v2026`  
-Made with love in India
-
-</div>
+`CREEPY ELECTRON OS v2026` · Made with love in India
 
 ---
 
@@ -145,12 +91,4 @@ Made with love in India
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="footer animation">
-
 **From [averma2988225-droid](https://github.com/averma2988225-droid)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-
-</div>
